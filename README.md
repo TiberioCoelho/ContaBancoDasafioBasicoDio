@@ -1,5 +1,5 @@
 # ContaBancoDasafioBasicoDio
-Desafio básico da DIO Digital Innovation One
+Desafio básico da DIO - Digital Innovation One
 Este desafio tem como objetivo uma simples conta de banco no nível básico.
 Propriedades:
 1-Cadastro
