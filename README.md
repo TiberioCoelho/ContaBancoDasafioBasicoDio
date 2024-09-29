@@ -1,4 +1,4 @@
-# ContaBancoDasafioBasicoDio
+# ContaBancoDasafioBasicoDioJava
 Desafio básico java da DIO - Digital Innovation One
 Este desafio tem como objetivo uma simples conta de banco no nível básico.
 Propriedades:
